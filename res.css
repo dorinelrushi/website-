@@ -1,0 +1,10 @@
+@media only screen and (max-width: 729px) {
+   .item{
+     display: flex;
+     flex-wrap: wrap;
+   }
+    
+  }
+
+
+
